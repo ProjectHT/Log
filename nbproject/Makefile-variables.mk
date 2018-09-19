@@ -15,13 +15,13 @@ CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
 CND_PACKAGE_NAME_Debug=libLog.so.tar
 CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/libLog.so.tar
 # Release configuration
-CND_PLATFORM_Release=MinGW-Windows
-CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
+CND_PLATFORM_Release=None-Windows
+CND_ARTIFACT_DIR_Release=dist/Release/None-Windows
 CND_ARTIFACT_NAME_Release=libLog.dll
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/libLog.dll
-CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
+CND_ARTIFACT_PATH_Release=dist/Release/None-Windows/libLog.dll
+CND_PACKAGE_DIR_Release=dist/Release/None-Windows/package
 CND_PACKAGE_NAME_Release=libLog.dll.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/libLog.dll.tar
+CND_PACKAGE_PATH_Release=dist/Release/None-Windows/package/libLog.dll.tar
 #
 # include compiler specific variables
 #
